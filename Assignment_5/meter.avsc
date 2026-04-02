@@ -1,0 +1,9 @@
+{
+  "type": "record",
+  "name": "MeterReading",
+  "fields": [
+    {"name": "meter_id", "type": "string"},
+    {"name": "timestamp", "type": "long"},
+    {"name": "usage_kwh", "type": "float"}
+  ]
+}
