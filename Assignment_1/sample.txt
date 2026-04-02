@@ -1,0 +1,10 @@
+Apache Spark is a fast and general-purpose cluster computing system.
+Spark provides high-level APIs in Java Python Scala and R.
+It also supports a rich set of higher-level tools including Spark SQL MLlib and GraphX.
+
+RDD stands for Resilient Distributed Dataset.
+RDDs are immutable fault tolerant and distributed across multiple nodes.
+Spark uses RDD lineage to recover lost data partitions automatically.
+
+Big data processing becomes easier using Apache Spark.
+Spark is widely used in data engineering data science and machine learning.
